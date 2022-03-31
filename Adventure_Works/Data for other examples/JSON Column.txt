@@ -1,0 +1,3 @@
+Key      IDNumber    Module      JsonResult  
+       97       303         Fly         {"JourneyType":"Return","Origin":"Mumbai (BOM)","Destination":"Chennai (MAA)","DepartureDate":"20-Oct-2016","ReturnDate":"21-Oct-2016","FlyAdult":"1","FlyChildren":"0","FlyInfant":"0","PromoCode":""} 
+       276      6303        Stay        {"Destination":"Clarion Chennai","CheckInDate":"14-Oct-2016","CheckOutDate":"15-Oct-2016","Rooms":"1","NoOfPax":"2","NoOfAdult":"2","NoOfChildren":"0"}
